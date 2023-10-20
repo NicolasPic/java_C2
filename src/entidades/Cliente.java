@@ -1,7 +1,7 @@
 package entidades;
 
 public class Cliente {
-
+	//commit final
 	private static int senhaDeAtendimento = 0;
 	private static int geradorDeSenha = 1;
 	
